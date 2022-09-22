@@ -1,7 +1,7 @@
 
 - 👋 Oi, Eu sou @LukasNR
-<!---
-<h1>👨‍💻 Linguagens</h1>
+
+<h1>👨‍💻 - Linguagens</h1>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,10 +23,16 @@
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 </a>
 
-<h1>💼Aplicações de escritorio</h1> 
+<h1>💼 - Aplicações de escritorio</h1> 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333"> 
 
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</a>
 
-
+<!---
 <img src="https://img.shields.io/badge/NVIDIA-RTX2060 SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 
 
@@ -37,7 +43,7 @@ Repositório do meu perfil - https://github.com/rafaballerini/rafa...
 Guia de markdown - https://docs.pipz.com/central-de-ajud...
 Site de emojis - https://emojipedia.org/search/?q=bag
 Repositório do Github Stats - https://github.com/anuraghazra/github...
-Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
+https://dev.to/envoy_/150-badges-for-github-pnk
 Fazedor de gifs - https://picrew.me/image_maker/338224
 Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
 
